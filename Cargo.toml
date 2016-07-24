@@ -1,0 +1,8 @@
+[package]
+name = "piston-tutorial"
+version = "0.1.0"
+authors = ["Miguel A Iglesias <miguel@human.x.ai>"]
+
+[dependencies]
+piston_window = "0.51.0"
+
